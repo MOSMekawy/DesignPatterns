@@ -1,0 +1,15 @@
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\bin\Debug\net7.0\LazyLoad.exe
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\bin\Debug\net7.0\LazyLoad.deps.json
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\bin\Debug\net7.0\LazyLoad.runtimeconfig.json
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\bin\Debug\net7.0\LazyLoad.dll
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\bin\Debug\net7.0\LazyLoad.pdb
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\obj\Debug\net7.0\LazyLoad.csproj.AssemblyReference.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\obj\Debug\net7.0\LazyLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\obj\Debug\net7.0\LazyLoad.AssemblyInfoInputs.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\obj\Debug\net7.0\LazyLoad.AssemblyInfo.cs
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\obj\Debug\net7.0\LazyLoad.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\obj\Debug\net7.0\LazyLoad.dll
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\obj\Debug\net7.0\refint\LazyLoad.dll
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\obj\Debug\net7.0\LazyLoad.pdb
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\obj\Debug\net7.0\LazyLoad.genruntimeconfig.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\LazyLoad\obj\Debug\net7.0\ref\LazyLoad.dll

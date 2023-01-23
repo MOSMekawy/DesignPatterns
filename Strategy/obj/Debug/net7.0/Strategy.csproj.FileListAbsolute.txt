@@ -1,0 +1,15 @@
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\bin\Debug\net7.0\Strategy.exe
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\bin\Debug\net7.0\Strategy.deps.json
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\bin\Debug\net7.0\Strategy.runtimeconfig.json
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\bin\Debug\net7.0\Strategy.dll
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\bin\Debug\net7.0\Strategy.pdb
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.csproj.AssemblyReference.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfo.cs
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.dll
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\obj\Debug\net7.0\refint\Strategy.dll
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.pdb
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\obj\Debug\net7.0\Strategy.genruntimeconfig.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Strategy\obj\Debug\net7.0\ref\Strategy.dll

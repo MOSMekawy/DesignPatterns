@@ -1,0 +1,15 @@
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\bin\Debug\net7.0\Template.exe
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\bin\Debug\net7.0\Template.deps.json
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\bin\Debug\net7.0\Template.runtimeconfig.json
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\bin\Debug\net7.0\Template.dll
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\bin\Debug\net7.0\Template.pdb
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\obj\Debug\net7.0\Template.csproj.AssemblyReference.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\obj\Debug\net7.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\obj\Debug\net7.0\Template.AssemblyInfoInputs.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\obj\Debug\net7.0\Template.AssemblyInfo.cs
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\obj\Debug\net7.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\obj\Debug\net7.0\Template.dll
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\obj\Debug\net7.0\refint\Template.dll
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\obj\Debug\net7.0\Template.pdb
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\obj\Debug\net7.0\Template.genruntimeconfig.cache
+C:\Users\Mostafa.Mekawy\source\repos\DesignPatterns\Template\obj\Debug\net7.0\ref\Template.dll
